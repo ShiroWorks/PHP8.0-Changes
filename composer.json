@@ -1,0 +1,17 @@
+{
+    "name": "shiroworks/php8.0",
+    "authors": [
+        {
+            "name": "Szabó Vilmos",
+            "email": "vili8899s@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./src"
+        }
+    },
+    "require": {
+        "php": "^8.0"
+    }
+}
